@@ -1,9 +1,6 @@
 # Medical-Project
 A closed-loop anesthesia delivery prototype using real-time physiological feedback (HR, MAP, RR, SpO₂) to automatically control drug infusion via a servo-driven IV mechanism with safety alarms.
 
-# Googel Drive link
-https://drive.google.com/drive/folders/11GEpnO9BKzEJP7l6zyrreYiuH9esYToA
-
 # Closed-Loop Anesthesia Delivery System
 
 A hardware-based closed-loop anesthesia delivery prototype that continuously monitors physiological parameters and automatically adjusts anesthetic infusion using embedded control logic.
